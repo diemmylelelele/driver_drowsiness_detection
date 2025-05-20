@@ -1,0 +1,7 @@
+numpy
+cv
+keras
+tensorflow
+mediapipe
+playsound
+pygamepip install pygame
